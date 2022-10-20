@@ -34,8 +34,7 @@ Kelas : TI.22.B1<br>
 ![buat file latihan1](https://user-images.githubusercontent.com/47426095/196225814-00e353e7-4bf8-49fa-a0bf-dab618a3f01d.PNG)
 
 * tulis kode seperti contoh
-
-![sc latihan1](https://user-images.githubusercontent.com/47426095/196225840-74027b54-1759-44aa-a97a-24e6491f8ed9.PNG)
+![image](https://user-images.githubusercontent.com/115475428/196995883-64473985-4c78-414d-9f5b-56e2497d74b5.png)
 ```python
 #Menampilkan tulisan 'Hello' di layar
 print("Hello")
@@ -133,3 +132,4 @@ Hasil Penggabungan 8 & 6 = 68
 Hasil penjumlahan 8 + 6 = 14
 Hasil pembagian 8 / 6 = 0
 ```
+
