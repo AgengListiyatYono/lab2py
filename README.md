@@ -1,4 +1,4 @@
-# tugas python pertemuan5
+# Tugas Python Pertemuan5
 
 Repository ini digunakan untuk memenuhi Tugas Bahasa Pemrograman Pertemuan-5<br><br>
 Nama :  Ageng Listiyat Yono <br>
