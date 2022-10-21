@@ -34,10 +34,11 @@ Kelas : TI.22.B1<br>
 ![buat file latihan1](https://user-images.githubusercontent.com/47426095/196225814-00e353e7-4bf8-49fa-a0bf-dab618a3f01d.PNG)
 
 * tulis kode seperti contoh
-![image](https://user-images.githubusercontent.com/115475428/196995883-64473985-4c78-414d-9f5b-56e2497d74b5.png)
+* ![kode latihan 1](https://user-images.githubusercontent.com/115475428/197215998-21414cd7-95f2-4eb4-98d0-43668ea69d85.png)
+
 ```python
-#Menampilkan tulisan 'Hello' di layar
-print("Hello")
+#Menampilkan tulisan 'Hello World' di layar
+print("Hello World")
 #Menampilkan tulisan 'Saya sedang belajar python' di layar
 print("Saya sedang belajar python")
 ```
@@ -47,9 +48,9 @@ print("Saya sedang belajar python")
 
 * Maka akan muncul program yang dijalankan
 
-![output latihan1](https://user-images.githubusercontent.com/47426095/196226031-5cf0d83f-7851-4915-8e9a-ba29573e4149.PNG)
+![hasil latihan 1](https://user-images.githubusercontent.com/115475428/197217978-fb789aeb-d2b5-4382-b882-27909ae805b6.png)
 ```
-Hello
+Hello World
 Saya sedang belajar python
 ```
 
@@ -61,7 +62,7 @@ Saya sedang belajar python
 
 * Tulis kode seperti contoh
 
-![sc latihan2](https://user-images.githubusercontent.com/47426095/196226836-40354e47-58b9-41e1-984f-976a927d2750.PNG)
+![kodelatihan2](https://user-images.githubusercontent.com/115475428/197220151-2b8dd36f-a8e1-43c4-9cc0-b8bee8bf3d52.png)
 ``` python
 # Menjumlahkan dua bilangan menggunakan variabel a & b
 a = 8
@@ -78,8 +79,7 @@ print("hasil penjumlahan a + b =", a+b)
 ![run python](https://user-images.githubusercontent.com/47426095/196226867-b202f7d9-79ae-4577-b93f-8279d92d42a5.PNG)
 
 * Maka akan muncul program yang dijalankan
-
-![output latihan2](https://user-images.githubusercontent.com/47426095/196226922-3323d8f6-6c99-496f-a256-6be4fa13e638.PNG)
+![hasillatihan2](https://user-images.githubusercontent.com/115475428/197220430-d4797f59-df86-47c5-9688-ec9d64199680.png)
 
 ```
 Variabel a = 8
@@ -94,9 +94,7 @@ hasil penjumlahan a + b = 14
 ![buat file latihan3](https://user-images.githubusercontent.com/47426095/196228787-1fa10f4d-ac73-4f1f-a4ba-4f214f2d713b.PNG)
 
 * Tulis kode seperti contoh
-
-![sc latihan3](https://user-images.githubusercontent.com/47426095/196258729-9f8bb060-8d79-4dc9-9371-ce84242b866a.PNG)
-
+![kodelatihan3](https://user-images.githubusercontent.com/115475428/197234062-f7a6a8e8-2e53-4565-a1ab-38aea3bf9a67.png)
 ```python
 #input nilai variabel
 a = input("masukan nilai pertama: ")
@@ -121,8 +119,9 @@ print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
 ![run python](https://user-images.githubusercontent.com/47426095/196228887-fddb8a47-afc5-4476-af01-e03a07e849ab.PNG)
 
 * Maka akan muncul program yang dijalankan, jangan lupa masukan angka
+![hasillatihan3](https://user-images.githubusercontent.com/115475428/197234343-cb5dfdde-edc9-404d-a1fd-e103eb149742.png)
 
-![output latihan3](https://user-images.githubusercontent.com/47426095/196228930-50635265-af56-4313-98db-6b3e90d333e1.PNG)
+
 ```
 masukan nilai pertama: 6
 masukan nilai kedua: 8
